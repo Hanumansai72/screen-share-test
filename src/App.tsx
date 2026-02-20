@@ -4,7 +4,7 @@ import ScreenTest from './pages/ScreenTest';
 
 function App() {
   return (
-    <Router basename="/ScreenSharTest">
+    <Router>
       <div className="min-h-screen flex flex-col items-center justify-center p-4">
         <main className="w-full max-w-4xl">
           <Routes>
